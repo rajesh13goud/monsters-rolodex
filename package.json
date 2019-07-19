@@ -2,7 +2,7 @@
   "name": "monsters-rolodex-tool",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rajesh13goud.github.io/monsters-rolodex-tools",
+  "homepage": "https://rajesh13goud.github.io/monsters-rolodex",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
